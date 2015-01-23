@@ -1,4 +1,4 @@
-require 'yodafy'
+require 'yodafy_program'
 require 'open-uri'
 
 describe Yodafy do
